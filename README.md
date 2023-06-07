@@ -8,11 +8,11 @@ Welcome to the official GitHub repository of the Linguistic Engineering and Text
 The Linguistic Engineering and Text Analysis Department is dedicated to exploring and harnessing the power of language in various applications. Our team of linguists, data scientists, and software engineers work together to develop innovative solutions for text analysis, information extraction, summarization, text classification, and much more. 📚🧠💻
 
 ## Projects
-1. [StyloMetrix](https://github.com/ZILiAT-NASK/StyloMetrix)
+1. [StyloMetrix](https://github.com/ZILiAT-NASK/StyloMetrix) s a powerful tool that enables the creation of text representations in the form of StyloMetrix vectors. Each metric in the vector quantifies a specific linguistic feature, allowing for a detailed analysis of the text's style through numeric values. With the ability to customize metrics, StyloMetrix is a versatile solution for tasks such as stylometric analysis, machine learning classifiers, statistical analyses, and linguistic reference. Available for Polish, English, and Ukrainian.
 
-2. [Summarizer](https://github.com/ZILiAT-NASK/Summarizer)
+2. [Summarizer](https://github.com/ZILiAT-NASK/Summarizer) is an innovative tool designed for generating concise and informative summaries of text documents. Using advanced natural language processing techniques, Summarizer distills the key points and main ideas from lengthy texts into coherent summaries.
 
-3. [PrivMasker](https://github.com/ZILiAT-NASK/PrivMasker)
+3. [PrivMasker](https://github.com/ZILiAT-NASK/PrivMasker) is a tool for anonymizing personal and sensitive data in documents. Depending on the text type and user preferences, an optional selection of masked components is available, including names, contact details (phone numbers, email addresses), physical addresses, dates, identification numbers, and monetary amounts. 
 
 4. [Datasets](https://github.com/ZILiAT-NASK/Datasets)
 
