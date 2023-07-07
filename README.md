@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of the Linguistic Engineering and Text Analysis Department at NASK (National Research Institute)! 🌐 This repository houses our projects, research papers, and tools related to linguistic engineering, natural language processing, and text analysis. We aim to advance the field of linguistics and language technology through our collaborative efforts. 🚀
 
-![Our team](https://media.licdn.com/dms/image/D5622AQEUHLWBkYGhwA/feedshare-shrink_2048_1536/0/1679995725543?e=1688601600&v=beta&t=No44ixhUYJy3hN5vJS6Pa26Kgo9X14BYbNI7N2PEosQ)
+![Our team](https://media.licdn.com/dms/image/D5622AQEUHLWBkYGhwA/feedshare-shrink_2048_1536/0/1679995725543?e=1691625600&v=beta&t=vWkbZAEbygS_XW4Z0WcTxjk5RpwYA5N6d845QkKCoRQ)
 
 ## About Us
 The Linguistic Engineering and Text Analysis Department is dedicated to exploring and harnessing the power of language in various applications. Our team of linguists, data scientists, and software engineers work together to develop innovative solutions for text analysis, information extraction, summarization, text classification, and much more. 📚🧠💻
