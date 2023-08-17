@@ -8,7 +8,7 @@ Welcome to the official GitHub repository of the Linguistic Engineering and Text
 The Linguistic Engineering and Text Analysis Department is dedicated to exploring and harnessing the power of language in various applications. Our team of linguists, data scientists, and software engineers work together to develop innovative solutions for text analysis, information extraction, summarization, text classification, and much more. 📚🧠💻
 
 ## Projects
-1. [Cyberbullying Dataset for Polish Language -> Banned content from Wykop.pl](https://github.com/ZILiAT-NASK/wykop_data)
+1. [Cyberbullying Dataset for Polish Language -> Banned content from Wykop.pl](https://github.com/ZILiAT-NASK/BAN-PL/tree/main)
 
 ![Wykop logo](https://upload.wikimedia.org/wikipedia/commons/7/75/Wykop_logotype.png)
 
