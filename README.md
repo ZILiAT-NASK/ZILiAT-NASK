@@ -8,9 +8,9 @@ Welcome to the official GitHub repository of the Linguistic Engineering and Text
 The Linguistic Engineering and Text Analysis Department is dedicated to exploring and harnessing the power of language in various applications. Our team of linguists, data scientists, and software engineers work together to develop innovative solutions for text analysis, information extraction, summarization, text classification, and much more. 📚🧠💻
 
 ## Projects
-1. [Cyberbullying Dataset for Polish Language -> Banned content from Wykop.pl](https://github.com/ZILiAT-NASK/BAN-PL/tree/main)
+1. [Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl web service](https://github.com/ZILiAT-NASK/BAN-PL/tree/main)
 
-![Wykop logo](https://upload.wikimedia.org/wikipedia/commons/7/75/Wykop_logotype.png)
+![BAN-PL](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/thumbnail.png)
 
 2. [StyloMetrix](https://github.com/ZILiAT-NASK/StyloMetrix) s a powerful tool that enables the creation of text representations in the form of StyloMetrix vectors. Each metric in the vector quantifies a specific linguistic feature, allowing for a detailed analysis of the text's style through numeric values. With the ability to customize metrics, StyloMetrix is a versatile solution for tasks such as stylometric analysis, machine learning classifiers, statistical analyses, and linguistic reference. Available for Polish, English, and Ukrainian.
 
