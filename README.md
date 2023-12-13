@@ -23,9 +23,12 @@ The Linguistic Engineering and Text Analysis Department is dedicated to explorin
 ## Research Papers
 Our department actively contributes to the scientific community through research papers published in top-tier conferences and journals. Some of our recent papers include:
 
-- "Styles with Benefits. The StyloMetrix Vectors for Stylistic and Semantic Text Classification of Small-Scale Datasets and Different Sample Length" - Published at PPRAI 2022. You can find the paper [here](). 📝🔬🌐
+- "Styles with Benefits. The StyloMetrix Vectors for Stylistic and Semantic Text Classification of Small-Scale Datasets and Different Sample Length" - Published at PPRAI 2022. You can find the paper [here](https://wydawnictwo.umg.edu.pl/pp-rai2022/pdfs/41_pp-rai-2022-121.pdf). 📝🔬🌐
 - "The Grammar and Syntax Based Corpus Analysis Tool For The Ukrainian Language". Access the paper [here](https://arxiv.org/pdf/2305.13530.pdf). 📝🔎🔄
 - "Team Up! Cohesive Text Summarization Scoring Sentence Coalitions" - Published at ICAISC 2020. You can find the paper [here](https://www.researchgate.net/profile/Inez-Okulska/publication/344865487_Team_up_Cohesive_Text_Summarization_Scoring_Sentence_Coalitions/links/5f949ba992851c14bce559a6/Team-up-Cohesive-Text-Summarization-Scoring-Sentence-Coalitions.pdf). 📝🔬🌐
+- "BAN-PL: a Novel Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl web service". 2023. arXiv:2308.1059. Access the paper [here](https://arxiv.org/abs/2308.10592). 
+- "Towards Harmful Erotic Content Detection through Coreference-Driven Contextual Analysis". 2023. arXiv:2310.14325. Access the paper [here](https://aclanthology.org/2023.crac-main.8.pdf). 
+- "StyloMetrix: An Open-Source Multilingual Tool for Representing Stylometric Vectors". 2023. arXiv:2309.12810. Access the paper [here](https://arxiv.org/abs/2309.12810). 
 
 ## Contribution Guidelines
 We welcome contributions from the open-source community to enhance our projects and advance the field of linguistic engineering. If you are interested in contributing, please follow our guidelines outlined in the CONTRIBUTING.md file of each project repository. 🙌🔧📝
@@ -35,4 +38,4 @@ For any inquiries, collaborations, or questions, feel free to reach out to us:
 
 Email: ziliat@nask.pl ✉️
 
-Website: https://www.nask.pl
+Website: https://www.science.nask.pl
